@@ -1,4 +1,4 @@
-# Update Tweets.
+# Update Tweets
 ```
 This program calls Standard search API to fill in the existing gap, and get new Tweets for each topic. 
 
@@ -40,7 +40,7 @@ In the main function
 
 ```
 
-# Update botscore.
+# Update botscore
 ```
 This program calls Botometer API to get botscore for 600 users per hour.
 
